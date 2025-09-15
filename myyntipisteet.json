@@ -1,13 +1,13 @@
 [
   {
-    "nimi": "Myyntipiste 1",
+    "nimi": "S-market",
     "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": "15.12–23.12 klo 9–18"
+    "aukiolo": "18.12–23.12 klo 10-20"
   },
   {
-    "nimi": "Myyntipiste 2",
-    "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": "15.12–23.12 klo 9–18"
+    "nimi": "S-market",   
+    'osoite": "Osoite päivitetään lähempänä joulukuuta",
+    "aukiolo": "18.12–23.12 klo 12–18"
   },
   {
     "nimi": "Myyntipiste 3",
