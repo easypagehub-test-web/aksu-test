@@ -2,16 +2,16 @@
   {
     "nimi": "S-market",
     "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": "18.12–23.12 klo 10-20"
+    "myynti alkaa": "17.12"
   },
   {
     "nimi": "S-market",   
     'osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": "18.12–23.12 klo 12–18"
+    "myynti alkaa": "18.12"
   },
   {
     "nimi": "Myyntipiste 3",
     "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": "15.12–23.12 klo 9–17"
+    "aukiolo": 
   }
 ]
