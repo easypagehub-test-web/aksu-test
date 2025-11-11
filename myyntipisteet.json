@@ -1,17 +1,12 @@
 [
   {
-    "nimi": "S-market",
-    "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "myynti alkaa": "17.12"
+    "nimi": "S-Market Vehkoja",
+    "osoite": "Uudenmaankatu 106, 05840 Hyvinkää",
+    "aukiolo": "Myynti alkaa ke 17.12.2025"
   },
   {
-    "nimi": "S-market",   
-    'osoite": "Osoite päivitetään lähempänä joulukuuta", 
-    "myynti alkaa": "18.12"
-  },
-  {
-    "nimi": "Myyntipiste 3",
-    "osoite": "Osoite päivitetään lähempänä joulukuuta",
-    "aukiolo": 
+    "nimi": "S-Market Ainola ",   
+    "osoite": "Viulukonsertonkatu 1, 04420 Järvenpää", 
+    "aukiolo": "Myynti alkaa to 18.12.2025"
   }
 ]
