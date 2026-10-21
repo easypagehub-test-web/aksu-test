@@ -1,18 +1,15 @@
 {
-  "sizes": ["130-150cm - 73€","150-170cm - 75€", "180-210cm - 80€", "210-240cm - 90€", "250-270cm - 100€","280-300cm - 120€", "300-330cm - 150€"],
+  "sizes": [
+    "130-150cm - 73€",
+    "150-170cm - 75€",
+    "180-210cm - 80€",
+    "210-240cm - 90€",
+    "250-270cm - 100€",
+    "280-300cm - 120€",
+    "300-330cm - 150€"
+  ],
   "dates": [
-    
-    
-  
-    
     "Ma 14.12",
-    "Haluan valita toisen toimituspäivän tämä on +25 eur lisämaksu"
-    
-    
-    
-    
-    
-    
-  
+    "Haluan valita toisen toimituspäivän tämä on +30 eur lisämaksu"
   ]
 }
